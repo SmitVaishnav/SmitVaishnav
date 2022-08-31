@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SmitVaishnav
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
 - 📫 How to reach me smitvaishnav007@gmail.com
 
 <!---
